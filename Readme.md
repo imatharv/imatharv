@@ -10,8 +10,9 @@
 
 <br />
 
-> #### _I like to code things from scratch, and enjoy bringing ideas to life in the browser._
+> ### _I like to code things from scratch, and enjoy bringing ideas to life in the browser._
 
+<br />
 
 ## I'm an aspiring developer !!
 
@@ -20,6 +21,7 @@
 - ⚓ This is the place where I opensource stuff and break things 😁
 - 😍 JavaScript enthusiast & CSS lover ✨
 - ⚡ Fun fact: I love traveling ✈️
+
 
 
 ## Languages and Tools:
