@@ -7,7 +7,7 @@
 <br />
 <p style="font-size: 18px;font-weight: 300;margin-bottom: 20px;">I like to code things from scratch, and enjoy bringing ideas to life in the browser.</p>
 
-<div style=" border-left: 3px solid #007bff;padding: 5px 10px;background-color: #f8f9fa;color: #343a40;font-weight: 400;box-shadow:  0rem .15rem .5rem rgba(0,0,0,.1);">
+<div style="border-left: 3px solid #007bff !important;padding: 5px 10px !important; font-weight: 400;box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1) !important;">
   I like to code beautifully simple things, and I love what I do. I value simple content structure, clean design patterns, and thoughtful interactions. 
 </div>
 <br />
@@ -41,7 +41,7 @@
 
 <img align="left" alt="JavaScript" width="25px"  style="margin:6px 0px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://miro.medium.com/max/720/1*LjR0UrFB2a__5h1DWqzstA.png" />
 
-<img align="left" alt="Visual studio code" width="16px" style="margin:10px 12px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" /> 
+<img align="left" alt="Visual studio code" width="25px" style="margin:10px 12px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" /> 
 
 <br />
 
