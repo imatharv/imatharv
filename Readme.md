@@ -10,7 +10,7 @@
 
 <br />
 
-> ### _I like to code things from scratch, and enjoy bringing ideas to life in the browser._
+> _I like to code things from scratch, and enjoy bringing ideas to life in the browser._
 
 <br />
 
@@ -22,7 +22,7 @@
 - 😍 JavaScript enthusiast & CSS lover ✨
 - ⚡ Fun fact: I love traveling ✈️
 
-
+<br />
 
 ## Languages and Tools:
 
@@ -33,7 +33,7 @@
 
 <img align="left" alt="JavaScript" width="25px"  style="margin:6px 0px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://miro.medium.com/max/720/1*LjR0UrFB2a__5h1DWqzstA.png" />
 
-<img align="left" alt="Visual studio code" width="25px" style="margin:10px 12px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" /> 
+<img align="left" alt="Visual studio code" width="25px" style="margin:6px 12px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" /> 
 
 <br />
 <br />
