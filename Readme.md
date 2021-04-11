@@ -6,18 +6,11 @@
 
 <br />
 
-<span style="font-size:1.3em !important;
-font-weight:300 !important;
-margin-bottom: 20px !important;
-display:block !important;">
+<font size="4">
   I like to code things from scratch, and enjoy bringing ideas to life in the browser.
-  
-</span>
+</font>
 
-I like to code beautifully simple things, and I love what I do. I value simple content structure, clean design patterns, and thoughtful interactions.
-{: .border-left}
-
-
+<br />
 <br />
 
 > **I like to code beautifully simple things, and I love what I do. I value simple content structure, clean design patterns, and thoughtful interactions.**
@@ -55,16 +48,10 @@ I like to code beautifully simple things, and I love what I do. I value simple c
 [<img align="left" alt="the.jpeg.creator | Instagram" width="27.5px" style="margin:0px 10px; border-radius:12.5px" src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico" />][instagram] 
 
 <br />
+<br />
+<br />
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 [instagram]: https://instagram.com/the.jpeg.creator/
 [linkedin]: https://linkedin.com/in/atharva-a-joshi/
-
-<style>
-.border-left {
-  margin-top:20px !important;
-  border-left: 4px solid #007bff !important;
-  padding: 6px 10px !important;
-  font-weight: 400 !important;
-  box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1) !important;
-}
-</style>
