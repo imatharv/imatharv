@@ -1,4 +1,4 @@
-## Hi there, I'm Atharva <img width="23px"  style="margin-bottom:-2.5px; margin-left:3px;" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
+## Hi there, I'm Atharva <img width="25px"  style="margin-bottom:-2.5px; margin-left:3px;" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
 
 <!-- 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /> 
