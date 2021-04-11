@@ -5,11 +5,28 @@
 -->
 
 <br />
-<p style="font-size: 18px;font-weight: 300;margin-bottom: 20px;">I like to code things from scratch, and enjoy bringing ideas to life in the browser.</p>
+<span style="font-size:18px;font-weight:300;margin-bottom: 20px;display:block;">I like to code things from scratch, and enjoy bringing ideas to life in the browser.</span>
 
-<div style="border-left: 3px solid #007bff !important;padding: 5px 10px !important; font-weight: 400;box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1) !important;">
+<span style="display:block;
+margin-top:20px;
+border-left: 4px solid #007bff !important;
+padding: 6px 10px !important;
+font-weight: 400;
+box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1) !important;">
   I like to code beautifully simple things, and I love what I do. I value simple content structure, clean design patterns, and thoughtful interactions. 
-</div>
+</span>
+
+<br />
+
+> I like to code beautifully simple things, and I love what I do. I value simple content structure, clean design patterns, and thoughtful interactions.
+
+> **test**
+
+<br />
+
+```
+I like to code beautifully simple things, and I love what I do. I value simple content structure, clean design patterns, and thoughtful interactions. 
+```
 <br />
 
 ## I'm an aspiring developer !!
@@ -22,16 +39,6 @@
 
 <br />
 
-## Connect with me:
-
-[<img align="left" alt="atharva-a-joshi | LinkedIn" width="27.5px"  style="margin:6px  0px" src="https://image.flaticon.com/icons/png/128/179/179330.png" />][linkedin]
-
-[<img align="left" alt="the.jpeg.creator | Instagram" width="27.5px" style="margin:0px 10px; border-radius:12.5px" src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico" />][instagram] 
-
-<br />
-<br />
-<br />
-
 ## Languages and Tools:
 
 <img align="left" alt="HTML" width="25px"  style="margin:6px 0px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082014/html5_0.png?itok=piXl_C7P" />
@@ -42,6 +49,15 @@
 <img align="left" alt="JavaScript" width="25px"  style="margin:6px 0px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://miro.medium.com/max/720/1*LjR0UrFB2a__5h1DWqzstA.png" />
 
 <img align="left" alt="Visual studio code" width="25px" style="margin:10px 12px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" /> 
+
+<br />
+<br />
+
+## Connect with me:
+
+[<img align="left" alt="atharva-a-joshi | LinkedIn" width="27.5px"  style="margin:6px  0px" src="https://image.flaticon.com/icons/png/128/179/179330.png" />][linkedin]
+
+[<img align="left" alt="the.jpeg.creator | Instagram" width="27.5px" style="margin:0px 10px; border-radius:12.5px" src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico" />][instagram] 
 
 <br />
 
