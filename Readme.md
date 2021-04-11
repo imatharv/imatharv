@@ -1,15 +1,3 @@
-<style>
-
-.about {
-  border-left: 3px solid #007bff;
-  padding: 5px 10px;
-  background-color: #f8f9fa;
-  color: #343a40;
-  font-weight: 400;
-  box-shadow:  0rem .15rem .5rem rgba(0,0,0,.1);
-}
-</style>
-
 ## Hi there, I'm Atharva <img width="23px"  style="margin-bottom:-2.5px; margin-left:3px;" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/waving-hand_1f44b.png" />
 
 <!-- 
@@ -53,7 +41,7 @@
 
 <img align="left" alt="JavaScript" width="25px"  style="margin:6px 0px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://miro.medium.com/max/720/1*LjR0UrFB2a__5h1DWqzstA.png" />
 
-<img align="left" alt="Visual studio code" width="16px" style="margin:10px 12px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1); background-color:white;padding:4.5px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" /> 
+<img align="left" alt="Visual studio code" width="16px" style="margin:10px 12px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" /> 
 
 <br />
 
