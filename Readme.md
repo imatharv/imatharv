@@ -22,7 +22,7 @@
 - 😍 JavaScript enthusiast & CSS lover ✨
 - ⚡ Fun fact: I love traveling ✈️
 
-<br />
+
 
 ## Languages and Tools:
 
