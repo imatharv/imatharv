@@ -1,7 +1,8 @@
-## Hi there, I'm Atharva <img width="23px"  style="margin-bottom:-2.5px; margin-left:3px;" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/waving-hand_1f44b.png" />
+## Hi there, I'm Atharva <img width="23px"  style="margin-bottom:-2.5px; margin-left:3px;" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
 
 <!-- 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /> 
+<img width="23px"  style="margin-bottom:-2.5px; margin-left:3px;" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/waving-hand_1f44b.png" />
 -->
 
 <br />
