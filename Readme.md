@@ -5,28 +5,23 @@
 -->
 
 <br />
-<span style="font-size:18px;font-weight:300;margin-bottom: 20px;display:block;">I like to code things from scratch, and enjoy bringing ideas to life in the browser.</span>
 
-<span style="display:block;
-margin-top:20px;
-border-left: 4px solid #007bff !important;
-padding: 6px 10px !important;
-font-weight: 400;
-box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1) !important;">
-  I like to code beautifully simple things, and I love what I do. I value simple content structure, clean design patterns, and thoughtful interactions. 
+<span style="font-size:1.3em !important;
+font-weight:300 !important;
+margin-bottom: 20px !important;
+display:block !important;">
+  I like to code things from scratch, and enjoy bringing ideas to life in the browser.
+  
 </span>
 
-<br />
+I like to code beautifully simple things, and I love what I do. I value simple content structure, clean design patterns, and thoughtful interactions.
+{: .border-left}
 
-> I like to code beautifully simple things, and I love what I do. I value simple content structure, clean design patterns, and thoughtful interactions.
-
-> **test**
 
 <br />
 
-```
-I like to code beautifully simple things, and I love what I do. I value simple content structure, clean design patterns, and thoughtful interactions. 
-```
+> **I like to code beautifully simple things, and I love what I do. I value simple content structure, clean design patterns, and thoughtful interactions.**
+
 <br />
 
 ## I'm an aspiring developer !!
@@ -63,3 +58,13 @@ I like to code beautifully simple things, and I love what I do. I value simple c
 
 [instagram]: https://instagram.com/the.jpeg.creator/
 [linkedin]: https://linkedin.com/in/atharva-a-joshi/
+
+<style>
+.border-left {
+  margin-top:20px !important;
+  border-left: 4px solid #007bff !important;
+  padding: 6px 10px !important;
+  font-weight: 400 !important;
+  box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1) !important;
+}
+</style>
