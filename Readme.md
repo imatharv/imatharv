@@ -6,14 +6,11 @@
 
 <br />
 
-<font size="4">
-  I like to code things from scratch, and enjoy bringing ideas to life in the browser.
-</font>
+**I like to code beautifully simple things, and I love what I do. I value simple content structure, clean design patterns, and thoughtful interactions.**
 
 <br />
-<br />
 
-> **I like to code beautifully simple things, and I love what I do. I value simple content structure, clean design patterns, and thoughtful interactions.**
+ > I like to code things from scratch, and enjoy bringing ideas to life in the browser.
 
 <br />
 
