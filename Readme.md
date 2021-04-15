@@ -49,8 +49,8 @@
 <br />
 <br />
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/imatharv/) 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://github.com/imatharv/)
 
 [instagram]: https://instagram.com/the.jpeg.creator/
 [linkedin]: https://linkedin.com/in/atharva-a-joshi/
