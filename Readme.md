@@ -11,7 +11,7 @@
 
 <br />
 
-> _I like to code things from scratch, and enjoy bringing ideas to life in the browser._
+```I like to code things from scratch, and enjoy bringing ideas to life in the browser.```
 
 <br />
 
