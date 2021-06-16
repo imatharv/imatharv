@@ -35,7 +35,7 @@
 
 <img align="left" width="25px"  style="margin:6px 0px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRiHfsdHKJSiDEG8DK9IrdDGrdA-RwYqTYAuY9WuNJodRKOxngRHQI2fxLfnDRCpsm52o&usqp=CAU" />
 
-<img align="left" width="30px"  style="margin:0px 0px 6px 0px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://pbs.twimg.com/profile_images/1269974132818620416/nt7fTdpB.jpg" />
+<img align="left" width="30px"  style="margin:-3px 0px 6px 0px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://pbs.twimg.com/profile_images/1269974132818620416/nt7fTdpB.jpg" />
 
 <img align="left" width="25px"  style="margin:6px  15px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
 
