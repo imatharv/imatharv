@@ -35,7 +35,7 @@
 
 <img align="left" width="25px"  style="margin:6px 0px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRiHfsdHKJSiDEG8DK9IrdDGrdA-RwYqTYAuY9WuNJodRKOxngRHQI2fxLfnDRCpsm52o&usqp=CAU" />
 
-<img align="left" width="25px"  style="margin:6px 0px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Ffountaindale.libnet.info%2Fevent%2F4516957&psig=AOvVaw0w33TI9l3kDRrEeblQu5Ky&ust=1623914647885000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC29tjPm_ECFQAAAAAdAAAAABAP" />
+<img align="left" width="25px"  style="margin:6px 0px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://pbs.twimg.com/profile_images/1269974132818620416/nt7fTdpB.jpg" />
 
 <img align="left" width="25px"  style="margin:6px  15px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
 
@@ -43,7 +43,7 @@
 
 <img align="left" width="25px" style="margin:6px 12px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" /> 
 
-<img align="left" width="25px"  style="margin:6px 0px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://www.google.com/imgres imgurl=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1206604326032072705%2FIh8iVx_B.jpg&imgrefurl=https%3A%2F%2Ftwitter.com%2Fdatagrip&tbnid=JWaprb Upa6X8M&vet=12ahUKEwjBwPjTzpvxAhXxSHwKHUaKAV8QMygQegUIARDGAQ..i&docid=DGFOpp86PU7hsM&w=400&h=400&q=datagrip%20icon&ved=2ahUKEwjBwPjTzpvxAhXxSHwKHUaKAV8QMygQegUIARDGAQ" />
+<img align="left" width="25px"  style="margin:6px 0px; box-shadow: 0rem .15rem .5rem rgba(0,0,0,.1);" src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" />
 
 <br />
 <br />
